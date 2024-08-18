@@ -2,7 +2,7 @@
 # <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=30&pause=500&color=F7445E&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi!+I'm+Will+👋" alt="Typing SVG" /></a>
 
 🧑‍💻  Full-stack developer who is always ready to learn something new<br/>
-🧑‍🎓  Studied Computer Science at The University of Maryland, College Park<br/>
+🧑‍🎓  Studying Computer Science at The University of Maryland, College Park<br/>
 🔭  Currently working on a social media app<br/>
 🌱  Currently learning MongoDB, GraphQL, Django<br/>
 
