@@ -1,10 +1,10 @@
 
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Chivo&weight=500&size=30&pause=500&color=F7445E&background=FFFFFF00&center=false&vCenter=true&width=435&lines=Hi!+I'm+Will+👋" alt="Typing SVG" /></a>
+# Hi! I'm Will 👋
 
 🧑‍💻  Full-stack developer who is always ready to learn something new<br/>
 🧑‍🎓  Studying Computer Science at The University of Maryland, College Park<br/>
-🔭  Currently working on a social media app<br/>
-🌱  Currently learning MongoDB, GraphQL, Django<br/>
+🔭  Currently working on a Tiktok recipe manager<br/>
+🌱  Currently learning PostgreSQL, GraphQL, SpringBoot<br/>
 
 ## 💻 My Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
