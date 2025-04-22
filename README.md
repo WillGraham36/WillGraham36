@@ -1,10 +1,8 @@
 
 # Hi! I'm Will 👋
 
-🧑‍💻  Full-stack developer who is always ready to learn something new<br/>
+🧑‍💻  Full-stack developer<br/>
 🧑‍🎓  Studying Computer Science at The University of Maryland, College Park<br/>
-🔭  Currently working on a Tiktok recipe manager<br/>
-🌱  Currently learning PostgreSQL, GraphQL, SpringBoot<br/>
 
 ## 💻 My Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
