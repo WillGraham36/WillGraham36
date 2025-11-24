@@ -1,7 +1,7 @@
 <h1 align="center">Hi! I'm Will 👋</h1>
 <h3 align="center">Full Stack Engineer studying CS @ UMD</h3>
 
-- 🔭 I’m currently working on [TerpPlannet](https://github.com/WillGraham36/four-year-plan-maker)  
+- 🔭 I’m currently working on [TerpPlanner](https://terpplanner.com)  
 - 🌱 I’m currently learning **SpringBoot, AWS, SQL**
 
 ---
